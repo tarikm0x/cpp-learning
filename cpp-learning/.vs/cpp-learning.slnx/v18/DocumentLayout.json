@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\VisualStudio Programiranje projekti\\cpp-learning\\cpp-learning\\",
+  "WorkspaceRootPath": "E:\\VisualStudio Programiranje projekti\\Github repo cpp-learning\\cpp-learning\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8A863E14-6447-4E53-9219-7D314826CA67}|cpp-learning.vcxproj|E:\\VisualStudio Programiranje projekti\\cpp-learning\\cpp-learning\\cpp-learning.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8A863E14-6447-4E53-9219-7D314826CA67}|cpp-learning.vcxproj|E:\\VisualStudio Programiranje projekti\\Github repo cpp-learning\\cpp-learning\\cpp-learning.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8A863E14-6447-4E53-9219-7D314826CA67}|cpp-learning.vcxproj|solutionrelative:cpp-learning.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "cpp-learning.cpp",
-              "DocumentMoniker": "E:\\VisualStudio Programiranje projekti\\cpp-learning\\cpp-learning\\cpp-learning.cpp",
+              "DocumentMoniker": "E:\\VisualStudio Programiranje projekti\\Github repo cpp-learning\\cpp-learning\\cpp-learning.cpp",
               "RelativeDocumentMoniker": "cpp-learning.cpp",
-              "ToolTip": "E:\\VisualStudio Programiranje projekti\\cpp-learning\\cpp-learning\\cpp-learning.cpp",
+              "ToolTip": "E:\\VisualStudio Programiranje projekti\\Github repo cpp-learning\\cpp-learning\\cpp-learning.cpp",
               "RelativeToolTip": "cpp-learning.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-03-12T18:18:54.436Z",
               "EditorCaption": ""
