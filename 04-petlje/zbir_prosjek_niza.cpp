@@ -15,6 +15,6 @@ int main() {
 
 	}
 	cout << "Suma ovih brojeva je: " << suma << endl;
-	cout << "Prosjek ovih brojeva je: " << suma / broj_brojeva;
+	cout << "Prosjek ovih brojeva je: " << double(suma / broj_brojeva);
 	return 0;
 }
