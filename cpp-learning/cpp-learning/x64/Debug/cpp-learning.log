@@ -1,3 +1,2 @@
 ﻿  cpp-learning.cpp
-E:\VisualStudio Programiranje projekti\Github repo cpp-learning\cpp-learning\cpp-learning.cpp(8,15): warning C4305: 'initializing': truncation from 'double' to 'float'
   cpp-learning.vcxproj -> E:\VisualStudio Programiranje projekti\Github repo cpp-learning\cpp-learning\x64\Debug\cpp-learning.exe
