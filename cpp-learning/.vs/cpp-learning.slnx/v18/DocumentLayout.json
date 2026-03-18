@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{8A863E14-6447-4E53-9219-7D314826CA67}|cpp-learning.vcxproj|solutionrelative:cpp-learning.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VisualStudio Programiranje projekti\\Github repo cpp-learning\\05-nizovi-staticki\\dvodimenzionalni_niz.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\VisualStudio Programiranje projekti\\Github repo cpp-learning\\06-pokazivaci-dinamicki\\pokazivac_osnove.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,14 +22,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "dvodimenzionalni_niz.cpp",
-              "DocumentMoniker": "E:\\VisualStudio Programiranje projekti\\Github repo cpp-learning\\05-nizovi-staticki\\dvodimenzionalni_niz.cpp",
-              "RelativeDocumentMoniker": "..\\05-nizovi-staticki\\dvodimenzionalni_niz.cpp",
-              "ToolTip": "E:\\VisualStudio Programiranje projekti\\Github repo cpp-learning\\05-nizovi-staticki\\dvodimenzionalni_niz.cpp",
-              "RelativeToolTip": "..\\05-nizovi-staticki\\dvodimenzionalni_niz.cpp",
+              "Title": "pokazivac_osnove.cpp",
+              "DocumentMoniker": "E:\\VisualStudio Programiranje projekti\\Github repo cpp-learning\\06-pokazivaci-dinamicki\\pokazivac_osnove.cpp",
+              "RelativeDocumentMoniker": "..\\06-pokazivaci-dinamicki\\pokazivac_osnove.cpp",
+              "ToolTip": "E:\\VisualStudio Programiranje projekti\\Github repo cpp-learning\\06-pokazivaci-dinamicki\\pokazivac_osnove.cpp",
+              "RelativeToolTip": "..\\06-pokazivaci-dinamicki\\pokazivac_osnove.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-18T00:14:56.272Z",
+              "WhenOpened": "2026-03-18T00:21:01.398Z",
               "EditorCaption": ""
             },
             {
@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "cpp-learning.cpp",
               "ToolTip": "E:\\VisualStudio Programiranje projekti\\Github repo cpp-learning\\cpp-learning\\cpp-learning.cpp",
               "RelativeToolTip": "cpp-learning.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-03-12T18:18:54.436Z",
               "EditorCaption": ""
