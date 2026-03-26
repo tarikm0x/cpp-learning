@@ -1,19 +1,17 @@
 #include<iostream>
-
 using namespace std;
 
 
-}
+
+
 
 int main() {
 
 	cout << "Unesi broj: ";
-	int a,b;
+	int a;
 	cin >> a;
-	cout << endl;
-	cout << "Unesi na koji stepen: ";
-	cin >> b;
-	cout << "Rezultat je: "<< stepen(a, b);
+	cout << fibonacci(a);
+
 	
 	return 0;
 }
