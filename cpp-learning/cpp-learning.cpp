@@ -3,14 +3,11 @@ using namespace std;
 
 
 
-
-
 int main() {
 
-	cout << "Unesi broj: ";
-	int a;
+	cout << "Unesi rijec: ";
+	string a;
 	cin >> a;
-	cout << fibonacci(a);
 
 	
 	return 0;
