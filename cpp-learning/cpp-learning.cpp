@@ -1,4 +1,5 @@
 #include<iostream>
+#include<string>
 
 using namespace std;
 
@@ -10,14 +11,11 @@ struct Student {
 
 };
 
-
-
 int main() {
 
-
-	Student s1 = { "Tarik","Random",9 };
+	Student s1;
 	
+
 
 	return 0;
 }
-
